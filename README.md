@@ -1,4 +1,4 @@
-# Incapp - Assignment 01
+# Incapp - Assignment 01<sup>st</sup>
 
 This is the **01<sup>st</sup> Assignment Project** from **Incapp Institute** , 
 Created as part of the Frontend Development Training. 
@@ -22,7 +22,7 @@ Appealing and Responsive Layout.
 
 ## Screenshots
 
-Below is a Preview of **Assignment 01** , Showcasing the Layout and Styling implemented Using pure HTML and CSS. 
+Below is a Preview of **Assignment 01<sup>st</sup>** , Showcasing the Layout and Styling implemented Using pure HTML and CSS. 
 The Design focuses on Clean Structure , Responsiveness and Modern Styling.
 
 <img src="./images/Assignment-1.png" alt="Assignment 01 Preview" width="100%" />
