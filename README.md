@@ -1,4 +1,4 @@
-# Incapp - Assignment 1
+# Incapp - Assignment 01
 
 This is the **1st Assignment Project** from **Incapp Institute**, 
 Created as part of the Frontend Development Training. 
@@ -22,7 +22,7 @@ Appealing and Responsive Layout.
 
 ## Screenshots
 
-Below is a Preview of **Assignment 1** , Showcasing the Layout and Styling implemented Using pure HTML and CSS. 
+Below is a Preview of **Assignment 01** , Showcasing the Layout and Styling implemented Using pure HTML and CSS. 
 The Design focuses on Clean Structure , Responsiveness and Modern Styling.
 
-<img src="./images/Assignment-1.png" alt="Assignment 1 Preview" width="100%" />
+<img src="./images/Assignment-1.png" alt="Assignment 01 Preview" width="100%" />
